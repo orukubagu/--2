@@ -1,5 +1,5 @@
 //https://script.google.com/macros/s/AKfycbzWF2iYrp7gQxxDeQmmTRxDfLClRGIL5twTiFsMEYbfYhSBZu-cTMOsPA4at8qyX3GoIw/exec
-const apiUrl = "https://script.googleusercontent.com/a/macros/stu.tcssh.tc.edu.tw/echo?user_content_key=AehSKLh2qev2KEsHqyVPrvtm8XPmJKA1yqNJv76z6KNiFfc7Tyd5QBZw-DOCOMYDaDV_teQ5-AGXiNTjmvHTzpzMt1LE0KV5L9Gu9ZJRtvj_exANZDzzHeF9CB6mxlYqBn2poJNZAQlxs_TCGVDDngjVuWgE8Rw64OPN0NuI9WrlX2HRTixQfancQSWcSakiW2sDcPIFF0nrYnhEmfqbscAy9NlO_2huciAQKAYfJ2-DjdYA5SIHnsIJajmpw1zHoPkpmpcBInpUmjpQ_x655Mv72JY3sp1SfGPS_nt_KAKwLNwlgxo7SCG8FkrhILLb_g&lib=MLy44hwRcMHsBm6BtFp7T8LSqAn6zqfGi"; // 替換為你的 API 網址
+const apiUrl = "https://script.google.com/macros/s/AKfycbylZORr_hu5-Dg1YOZuedw-IEMl3_G_hSdTZj1mPqDdHgXwsvsmV5FHKql2FrP9owQ/exec"; // 替換為你的 API 網址
 
 const form = document.getElementById("recordForm");
 const recordsContainer = document.getElementById("records");
